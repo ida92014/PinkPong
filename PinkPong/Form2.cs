@@ -20,6 +20,7 @@ namespace PinkPong
         public Form2()
         {
             InitializeComponent();
+            this.KeyPreview=true;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
