@@ -1,0 +1,12 @@
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.csproj.AssemblyReference.cache
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.csproj.SuggestedBindingRedirects.cache
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.Form1.resources
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.Form2.resources
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.Properties.Resources.resources
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.csproj.GenerateResource.cache
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.csproj.CoreCompileInputs.cache
+C:\Users\annas\source\repos\PinkPong\bin\Debug\PinkPong.exe.config
+C:\Users\annas\source\repos\PinkPong\bin\Debug\PinkPong.exe
+C:\Users\annas\source\repos\PinkPong\bin\Debug\PinkPong.pdb
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.exe
+C:\Users\annas\source\repos\PinkPong\obj\Debug\PinkPong.pdb
